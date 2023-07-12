@@ -1,0 +1,56 @@
+.profile{
+    border-radius: 50%;
+}
+.hello{
+    font-family: cursive;
+    color: blueviolet;
+}
+
+.education{
+    font-family: 'Times New Roman', Times, serif;
+    color: blueviolet;
+    font-size: 50px;
+}
+.details{
+    font-size: x-large;
+}
+.skills{
+    font-family: 'Times New Roman', Times, serif;
+    color: blueviolet;
+    font-size: 50px;
+}
+span{
+    font-size: x-large;
+}
+.lang{
+    font-size: larger;
+}
+.touch{
+    font-family: 'Times New Roman', Times, serif;
+    color: blueviolet;
+    font-size: 50px;
+}
+.abcd{
+    color: green;
+}
+.btn{
+    font-size: 30px;
+}
+.container4{
+    background-color: rgb(6, 242, 136);
+    height: 300px;
+}
+.nav{
+    font-size: larger;
+}
+@media (max-width: 600px){
+    .description{
+        height: 300px;
+        width: 100%;
+    }
+    .xx{
+        height: 150px;
+        width: 150px;
+
+    }
+}
